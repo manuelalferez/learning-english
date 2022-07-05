@@ -64,3 +64,18 @@ All the common mistakes I have made, collected here for study.
 |---|---|
 |❌ | **How will be** your Friday?  |
 |✅ | What's your Friday going to be like?  |
+
+|   |   |
+|---|---|
+|❌| shrimps |
+|✅| shrimp |
+
+|   |   |
+|---|---|
+|❌| fishes |
+|✅| fish |
+
+|   |   |
+|---|---|
+|❌| They **loose the** hope |
+|✅| They **lose** hope |

@@ -16,3 +16,8 @@ I learn new vocabulary through practice. So from time to time, I pick out a few 
 |---|---|
 |   | They are enjoying a happy coupledom. |
 |   | I also know inside of that coupledom, all that glitters is not gold. |
+
+| hype | examples  |
+|---|---|
+|   | Hype me up. |
+|   | Give me some hype. |
